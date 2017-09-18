@@ -3,7 +3,7 @@ package br.com.db1;
 public class ExercicioNumeroPrimo {
 
 	private Integer resposta;
-	
+	//teste
 	public Integer numeroPrimo(Integer primo) {
 		Integer cont = 0;
 		for(Integer i = 1; i <= primo; i++) {
